@@ -1,0 +1,22 @@
+
+
+@import url('https://fonts.googleapis.com/Quicksand:300,400|Raleway:200,300&subset=latin-ext');
+
+*{
+  box-sizing: border-box;
+}
+
+h2{
+  padding:20px 0;
+  font-size: 2em;
+}
+h3{
+  padding:20px 0;
+  font-size: 1.6em;
+  font-weight:normal;
+}
+
+p{
+  padding-bottom:20px;
+  font-size:20px;
+}
