@@ -1,11 +1,13 @@
 
 
-@import url('https://fonts.googleapis.com/Quicksand:300,400|Raleway:200,300&subset=latin-ext');
-
 *{
   box-sizing: border-box;
+
 }
 
+body{
+font-family: "Quicksand", "Hiragino Kaku Gothic ProN","Meiryo", "HelveticaNeue-Light", "Helvetica Neue Light", "Avenir Next", sans-serif;
+}
 h2{
   padding:20px 0;
   font-size: 2em;
